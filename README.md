@@ -62,21 +62,21 @@ The Blog Project is a Django application that provides RESTful API endpoints for
 
 ### Authenticated Endpoints
 
-- **GET /blogs/**
+- **GET /blog/**
   - Retrieves a list of blog posts for the authenticated user. Supports search and pagination.
 
-- **POST /blogs/**
+- **POST /blog/**
   - Creates a new blog post.
 
-- **PATCH /blogs/**
+- **PATCH /blog/**
   - Updates an existing blog post identified by UUID.
 
-- **DELETE /blogs/**
+- **DELETE /blog/**
   - Deletes a blog post identified by UUID.
 
 ### Public Endpoints
 
-- **GET /public-blogs/**
+- **GET /public-blog/**
   - Retrieves a list of blog posts. Supports search and pagination. No authentication required.
 
 ## Models
