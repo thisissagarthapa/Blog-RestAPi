@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # virtual Environment
-.myenv/
+myenv/
 
 # Distribution / packaging
 .Python
