@@ -130,6 +130,13 @@ The Blog Project is a Django application that provides RESTful API endpoints for
 
 5. **Create a Pull Request.**
 
-## License
+## Screenshot
+![Screenshot (19)](https://github.com/user-attachments/assets/5c2a7610-f4ed-4475-8fb4-d947507343f1)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Screenshot (20)](https://github.com/user-attachments/assets/26f1e4df-6327-4294-aa85-1275021e139c)
+
+![Screenshot (21)](https://github.com/user-attachments/assets/b0dfb7ae-5da8-490c-824c-4f7c95b4c446)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/8984983a-2f7a-41c4-bcdc-f034a71e4e27)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/a2f9d669-90b6-4617-99fe-b2f49a456d1b)
